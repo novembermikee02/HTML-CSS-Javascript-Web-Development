@@ -7,17 +7,6 @@
 This repository contains my solutions to the Module - 2, 3, 4 Coding Assignments for the course HTML, CSS, JavaScript for Web Developers by Johns Hopkins University on Coursera. 
 
 ---
-**Assignment:**
-
-- [Module 2 Assignment]
-
-- [Module 3 Assignment]
-
-- [Module 4 Assignment]
-
-- [Module 5 Assignment]
-
-Mockup illustrations are present in the Assignment documents.
 
 
 **Solution Links:**
